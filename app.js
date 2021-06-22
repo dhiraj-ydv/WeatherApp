@@ -39,6 +39,6 @@ https.get(url, function(response){
 
 
 
-app.listen(3000, function(){
+app.listen(https://weather-app-beige-zeta.vercel.app, function(){
   console.log("Server is running on port 3000.");
 });
